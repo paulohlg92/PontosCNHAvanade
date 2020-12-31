@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5oQyJploQ+lI3Hjpu2lpoV1FitzGmjXwlpFi49ZB8h2Nlfs/wjly5KNFn+jI8+K7PQn/jus1jspbWeWjGZuUg==",
+  "success": true,
+  "projectFilePath": "E:\\DETRANPATTERN\\DesignPatternSamples-main\\src\\Workbench.IFormatter.Extensions\\Workbench.IFormatter.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phgui\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\phgui\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

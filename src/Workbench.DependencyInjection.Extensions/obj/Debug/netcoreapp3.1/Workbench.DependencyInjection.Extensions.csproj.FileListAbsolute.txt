@@ -1,0 +1,9 @@
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.deps.json
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\bin\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.pdb
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.csprojAssemblyReference.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.AssemblyInfoInputs.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.AssemblyInfo.cs
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.csproj.CoreCompileInputs.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Workbench.DependencyInjection.Extensions\obj\Debug\netcoreapp3.1\Workbench.DependencyInjection.Extensions.pdb

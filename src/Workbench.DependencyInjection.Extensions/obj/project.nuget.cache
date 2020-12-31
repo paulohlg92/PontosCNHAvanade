@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9ZxiIE4jcOn8LCm/u1PXcc4m/ffj07rNiTXuj72Lt9gnD3J4bLvlcTSyFojsNegPskNqhpyS+JUQMwTp/Os9iw==",
+  "success": true,
+  "projectFilePath": "E:\\DETRANPATTERN\\DesignPatternSamples-main\\src\\Workbench.DependencyInjection.Extensions\\Workbench.DependencyInjection.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phgui\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.9\\microsoft.extensions.dependencyinjection.abstractions.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaqwiIDCve5okBoBc69IEWaH6quSJkPv5ZDEdgxXrvOwC9o4R54hf9NbM1EdMzoqV7cdtFYgUEbW11YpAifsdQ==",
+  "success": true,
+  "projectFilePath": "E:\\DETRANPATTERN\\DesignPatternSamples-main\\src\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phgui\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.9\\microsoft.extensions.caching.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\phgui\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.9\\microsoft.extensions.logging.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\phgui\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}

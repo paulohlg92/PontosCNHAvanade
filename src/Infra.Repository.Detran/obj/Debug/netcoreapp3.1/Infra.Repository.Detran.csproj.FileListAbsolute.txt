@@ -1,0 +1,16 @@
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csprojAssemblyReference.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfoInputs.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.AssemblyInfo.cs
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CoreCompileInputs.cache
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.deps.json
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\DesignPatternSamples.Application.pdb
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IDistributedCache.Extensions.pdb
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\bin\Debug\netcoreapp3.1\Workbench.IFormatter.Extensions.pdb
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\Infra.Repository.Detran.csproj.CopyComplete
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.dll
+E:\DETRANPATTERN\DesignPatternSamples-main\src\Infra.Repository.Detran\obj\Debug\netcoreapp3.1\DesignPatternSamples.Infra.Repository.Detran.pdb
